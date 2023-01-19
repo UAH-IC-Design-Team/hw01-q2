@@ -5,7 +5,7 @@ using namespace std;
 
 int main ()
 {
-	cout << "\nhello git\n"
+	cout << "\nhello git\n";
 
 	cout << "there's a change\n";
 
