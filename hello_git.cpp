@@ -6,6 +6,7 @@ using namespace std;
 int main ()
 {
 	cout << "\nhello git\n";
-	cout << "Creating a merge conflict! This is not the line you want.\n";
+	cout << "there's a change; keep this line\n";
+
 	return 0;
 }
